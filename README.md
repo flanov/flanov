@@ -8,4 +8,4 @@
 - :heart: I also love music, animals and traveling.
 - :speech_balloon: Ask me about anything! 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/flavianovloski/?locale=en_US);
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/flavianovloski/?locale=en_US)
