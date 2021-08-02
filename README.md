@@ -9,3 +9,5 @@
 - :speech_balloon: Ask me about anything! 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/flavianovloski/?locale=en_US)
+[![Linkedin](https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg) LinkedIn](https://www.linkedin.com/in/flavianovloski/?locale=en_US)
+
