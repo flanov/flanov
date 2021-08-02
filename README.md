@@ -7,3 +7,5 @@
 - :speaking_head: I speak English, French and Portuguese.
 - :heart: I also love music, animals and traveling.
 - :speech_balloon: Ask me about anything! 
+
+<img src="{https://www.linkedin.com/in/flavianovloski/?locale=en_US}" />
