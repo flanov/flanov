@@ -6,5 +6,5 @@
 - :speaking_head: I speak English, French and Portuguese.
 - :heart: I also love music, animals and traveling.
 - :speech_balloon: Ask me about anything! 
-- https://www.linkedin.com/in/flavianovloski/?locale=en_US
+- https://www.linkedin.com/in/flavianovloski
 - https://www.kaggle.com/flanov
